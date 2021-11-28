@@ -6,3 +6,6 @@ venv/
 
 # ignore jupyternotebook checkpoints [cache]
 .ipynb_checkpoints
+
+# ignore virtual environment
+venv/
