@@ -4,8 +4,17 @@ venv/
 # ignore compiled python files
 *.pyc
 
+# Ignore saved numpy arrays
+*.npy
+
 # ignore jupyternotebook checkpoints [cache]
 .ipynb_checkpoints
+
+# ignore virtual environment
+venv/
+
+# ignore numpy arrays due to filesize
+*.npy
 
 # ignore virtual environment
 venv/
